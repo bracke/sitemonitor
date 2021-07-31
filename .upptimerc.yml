@@ -11,14 +11,13 @@ sites:
     url: https://evoluxos.com
   - name: evoluxos.com http
     url: https://evoluxos.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /sitemonitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/627383?s=96&v=4
   name: Sitemonitor
   introTitle: "Uptime monitor and status page"
   introMessage: 
