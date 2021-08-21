@@ -1,7 +1,7 @@
 url: http://bracke.dk
-status: up
-code: 200
-responseTime: 142
-lastUpdated: 2021-08-20T23:02:12.558Z
+status: down
+code: 502
+responseTime: 118
+lastUpdated: 2021-08-21T20:46:47.121Z
 startTime: Sat Jul 31 2021 12:40:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
